@@ -1,0 +1,4 @@
+1- pwd : para sabermos qual pagina estamos
+2- cd : para ir para raiz
+3 - cd Desktop : para ir para area de trabalho
+4 - mkdir pratica-shell : para criar a pagina "pratica-shell"
