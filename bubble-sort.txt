@@ -1,0 +1,3 @@
+1) Começar da esquerda para direita
+2) Comparar a primeira carta com cada uma das outras 4 cartas. Trocando-as sempre que a primeira carta for maior que a carta comparada
+3) Repetir o processo de comparação com as cartas de 2-5 comparando-as sempre com as demais cartas a sua direita
