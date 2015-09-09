@@ -1,8 +1,3 @@
-Passo 1) Começar da esquerda para direita
-Passo 2) Vira a primeira carta com a segunda carta. Se a primeira carta for maior que a segunda, trocar uma pela outra. Se for menor, manter.
-Passo 3) Virar a primeira carta com a terceira carta e fazer o mesmo processo do passo 2.
-Passo 4) Virar a primeira carta com a quarta carta e fazer o mesmo processo do passo 2.
-Passo 5) Virar a primeira carta com a quinta carta e fazer o mesmo processo do passo 2.
-Passo 6) Virar a segunda carta com a terceira, quarta e quinta carta mantendo o mesmo processo do anterior.
-Passo 7) Virar a terceira carta com a quarta e a quinta carta, mantendo o mesmo processo de trocas.
-Passo 8) Virar a quarta carta com a quinta carta mantendo o processo de trocas.
+passo1-começar da esquerda para a direita
+passo2-comparar a primeira carta com as cartas 2-3-4-5, trocando a primeira carta, sempre que esta for maior que a carta comparada.
+passo3-repetir o passo 2 para as cartas 2-3-4-5, comparando-as sempre com as cartas restantes a direita.
