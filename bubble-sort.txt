@@ -1,3 +1,4 @@
 passo1-começar da esquerda para a direita
 passo2-comparar a primeira carta com as cartas 2-3-4-5, trocando a primeira carta, sempre que esta for maior que a carta comparada.
 passo3-repetir o passo 2 para as cartas 2-3-4-5, comparando-as sempre com as cartas restantes a direita.
+passo4- mais um membro
