@@ -1,3 +1,6 @@
-passo1-começar da esquerda para a direita
-passo2-comparar a primeira carta com as cartas 2-3-4-5, trocando a primeira carta, sempre que esta for maior que a carta comparada.
-passo3-repetir o passo 2 para as cartas 2-3-4-5, comparando-as sempre com as cartas restantes a direita.
+Para i indo de 0 ate n-2, faça:
+Para cada j indo de i+1 até n-1, faça:
+Se carta i > carta j
+Temp <-- carta i
+carta i <-- carta j
+carta j <-- carta i
