@@ -1,0 +1,21 @@
+1- mkdir repo: para criar a pasta repo
+2- cd repo: para entrarmos na pasta "repo"
+3- git init --bare 
+4- cd ..: para voltarmos para "repo"
+5- git clone repo pratica-git-marlos : para clonar a pasta "repo"
+6- ls : para ver o que tinha no diretorio "pratica-shell"
+7- cd pratica-git-marlos : para entrar na pasta "pratica-git-marlos"
+8- git status : para ver o estado da pasta pratica-git-marlos
+9- git add alunos.txt : para adicionar o arquivo "alunos.txt" na pasta "pratica-git-marlos"
+10- git status: para ver o estado da pasta "pratica-git-marlos"
+11- git add intro-shell.txt : para adicionar o arquivo "intro-shell.txt" na pasta "pratica-git-marlos"
+12- git status: para ver o estado da pasta "pratica-git-marlos"
+13- git config user.name marlos : para atribuir um nome (marlos)
+14- git config user.email marlosreis@hotmail.com : para atribuir um email (marlosreis@hotmail.com)
+15- git commit -m "mensagem": para criar um comentario (adicionei os arquivos aluno.txt e intro-shell.txt)
+16- git status: para ver o estado do commit
+17- git push origin master : para mandar o commit para origem
+18- cd.. : para voltar para o diretorio "pratica-shell"
+19- cd repo : para entrar na pasta "repo"
+20- git log : para ver o commit que foi recebido nessa pasta  "repo" (origem)
+21- git remote set-url origin https: para trocar a origem
